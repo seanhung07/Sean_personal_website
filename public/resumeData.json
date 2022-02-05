@@ -1,0 +1,43 @@
+{
+  "main": {
+    "name": "Sean Hung",
+    "description": "Full Stack Developer, Cryptocurrencies Trader , Penetration Tester...",
+    "image": "profile.png",
+    "bio": "I am a sohphomore at Rensselaer Polytechnic Institute(RPI) pursuing a Bachelor’s degree in Information Technology and Web Science with a concentration in Machine Learning. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "seanhungrpi@gmail.com",
+    "phone": "(+1) 518-961-8714",
+    "resumedownload": "https://drive.google.com/file/d/18PkRoy4nmULbPOKzvFIbyazGRsYB4bHA/view?usp=sharing",
+    "social": [
+      {
+        "name": "github",
+        "url": "http://github.com/seanhung07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Rensselaer Polytechnic Institute",
+        "degree": "B.S. in Information Technology and Web Science Concentration in Machine Learning",
+        "graduated": "Augest 2020 - April 2024",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Crypto-Aresnal",
+        "title": "Quantative Researcher",
+        "years": "March 2010 - Present",
+        "description": "Research and develop new trading strategies, Operate automated trading systems including adjusting strategy parameters"
+      },
+      {
+        "company": "Maxonrow",
+        "title": "Cryptocurrency trading strategies internship",
+        "years": "May 2021 - July 2021",
+        "description": "Research and develop a trading strategy in Cryptocurrency market using Tradingview’s pinescript."
+      }
+    ]
+  }
+}
