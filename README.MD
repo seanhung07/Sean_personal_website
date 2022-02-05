@@ -1,5 +1,5 @@
 # My personal website
- ![free](https://github.com/seanhung07/Sean_personal_website/blob/master/lab2/lab2.png)
+ ![free](https://github.com/seanhung07/Sean_personal_website/blob/master/hungs.png)
 
 ## Available Scripts
 
